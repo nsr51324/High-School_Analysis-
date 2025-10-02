@@ -1,4 +1,4 @@
-# High-School_Analysis-
+# CodeAlpha_TaskName-
 
 
 I worked on a new data analysis project about the 2024–2025 high school results as part of my internship with CodeAlpha.
